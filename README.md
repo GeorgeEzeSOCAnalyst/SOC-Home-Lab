@@ -38,6 +38,28 @@
 - Wazuh FIM + VirusTotal = powerful malware detection pipeline
 - Real-time alerting with severity level classification
 
+## 📸 Screenshots
+
+### VirusTotal Malware Detection — 66 Engines
+
+
+![VirusTotal](Screenshot 2026-04-29 031135.png)
+
+
+
+### Wazuh Dashboard — Active Agent
+
+
+![Dashboard](Screenshot 2026-04-29 031227.png)
+
+
+
+### Threat Hunting — Live Alerts
+
+
+![Threat Hunting](Screenshot 2026-04-29 031432.png)
+
+
 ## 📜 Certifications
 - Google Cybersecurity Professional Certificate ✅
 - CompTIA Security+ — In Progress 🔄
